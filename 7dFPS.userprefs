@@ -1,0 +1,72 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/EndScript.js">
+    <Files>
+      <File FileName="Assets/Standard Assets/Image Effects (Pro Only)/SepiaToneEffect.cs" Line="12" Column="1" />
+      <File FileName="Assets/Resources/Scripts/ExitLevel.js" Line="46" Column="31" />
+      <File FileName="Assets/Resources/Scripts/InteractReset.js" Line="67" Column="1" />
+      <File FileName="Assets/Resources/Scripts/States.js" Line="16" Column="34" />
+      <File FileName="Assets/Resources/Scripts/EndScript.js" Line="36" Column="70" />
+      <File FileName="Assets/Resources/Scripts/LevelIndicator.js" Line="19" Column="43" />
+      <File FileName="Assets/Resources/Scripts/IntroAnimation.js" Line="22" Column="36" />
+      <File FileName="Assets/Resources/Scripts/Crosshair.js" Line="15" Column="67" />
+      <File FileName="Assets/Resources/Scripts/Mainmenu.js" Line="37" Column="3" />
+      <File FileName="Assets/Resources/Scripts/PauseMenu.js" Line="232" Column="56" />
+      <File FileName="Assets/Resources/Scripts/Trigger.js" Line="4" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Shoot.js" Line="41" Column="4" />
+      <File FileName="Assets/Resources/Scripts/LightBehaviour.js" Line="48" Column="3" />
+      <File FileName="Assets/Resources/Scripts/RayReceiver.js" Line="45" Column="3" />
+      <File FileName="Assets/Resources/Scripts/GetGun.js" Line="26" Column="34" />
+      <File FileName="Assets/Resources/Scripts/ScientistTalk.js" Line="21" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Image Effects (Pro Only)" expanded="True" />
+                <Node name="Water (Basic)" expanded="True">
+                  <Node name="Sources" expanded="True">
+                    <Node name="Shaders" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="EndScript.js" selected="True" />
+                </Node>
+                <Node name="Shaders" expanded="True" />
+              </Node>
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Water (Basic)" expanded="True">
+                  <Node name="Sources" expanded="True">
+                    <Node name="Shaders" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript-firstpass" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
